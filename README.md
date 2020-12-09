@@ -8,7 +8,7 @@ Referat wraz z analizami został przygotowany na spotkanie koła matematycznego 
 
 Aby uruchomić  program należy go otworzyć  przez np: 
  - [Colab](https://colab.research.google.com)
- - PyCharm
+ - [PyCharm](https://www.jetbrains.com/pycharm/download)
  - [Jupyter Notebook](https://jupyter.org/install)
 
 [Link do kodu](https://github.com/jedrzejd/Covid_Analysis/blob/main/Covid_Analysis.ipynb)
