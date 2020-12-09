@@ -16,8 +16,8 @@ Aby uruchomić  program należy go otworzyć  przez np:
 Uruchomienie programu przez Jupyter Notebook
 
 ```
-$ git clone https://github.com/jedrzejd/Mask-Detector.git
-$ cd Mask-Detector
+$ git clone https://github.com/jedrzejd/Covid_Analysis.git
+$ cd Covid_Analysis
 $ python3 -m venv venv
 $ . venv/bin/activate
 $ pip install -r requirements.txt
